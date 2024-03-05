@@ -120,7 +120,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jagannathbehera312/jagannathbehera312/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jagannathbehera312/jagannathbehera312/blob/main/dist/snake.svg" alt="Snake animation" />
 
 ###
 
